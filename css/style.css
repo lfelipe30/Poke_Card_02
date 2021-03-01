@@ -1,0 +1,65 @@
+.table{
+    margin-top: 50px;
+    display: none;
+}
+
+.form-select{
+    margin-top: 50px;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: Oswald;
+}
+
+.poke{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.image > div > div > img{
+    display: flex;
+    width:20%;
+}
+
+
+form{
+    width: 50%;
+    margin-top: 100px;
+}
+
+td > img{
+    display: inline;
+    width: 20%;
+}
+
+
+.Card{
+    font-family: Oswald;
+    background-color:yellow;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 3px solid rgba(255, 255, 0, 0.699);
+    margin: 30px;
+    width: 400px;
+    margin-left: 0px;
+}
+
+.Card .Title{
+    display: flex;
+    padding: 5px 0px;
+    justify-content: center;
+}
+
+.Card .Content{
+    background-color: rgb(20, 61, 172);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+
+    color: aliceblue;
+    font-family: Oswald;
+}
